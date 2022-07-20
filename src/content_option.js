@@ -5,7 +5,7 @@ const meta = {
 };
 
 const introdata = {
-    title: "I’m Hai Le",
+    title: "I’m Hai",
     animated: {
         first: "I love testing and coding",
         second: "I build cool automation framework",
@@ -17,7 +17,7 @@ const introdata = {
 
 const dataabout = {
     title: "Abit about my self",
-    aboutme: "My full name is Le Huynh Long Hai(Lê Huỳnh Long Hải). I was born in 1995. I am married and have a daughter.",
+    aboutme: "My full name is Le Huynh Long Hai. I was born in 1995. I am married and have a daughter.",
 };
 
 const worktimeline = [{
@@ -137,12 +137,12 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "hailhl3045@gmail.com.com",
+    YOUR_EMAIL: "hailhl3045@gmail.com",
     YOUR_FONE: "+84 987 259 902",
     description: "Please contact me when you need help with something.",
     YOUR_SERVICE_ID: "service_oz3ysus",
-    YOUR_TEMPLATE_ID: "template_38iiegq",
-    YOUR_USER_ID: "lhlhai.spkt@gmail.com",
+    YOUR_TEMPLATE_ID: "template_9efrs3e",
+    YOUR_USER_ID: "MH0yYnPkXm7DYXYNJ",
 };
 
 const socialprofils = {
