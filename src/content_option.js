@@ -7,18 +7,19 @@ const meta = {
 const introdata = {
     title: "I’m Hai Le",
     animated: {
-        first: "I love coding and testing",
+        first: "I love testing and coding",
         second: "I build cool automation framework",
-        third: "I learning new technology",
+        third: "I never stop learning new something",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "Take advantages of knowledge and scripting skill to become an expert in Automation Test Engineer.",
+    your_img_url: "https://unsplash.com/photos/9UySGPt-aoo",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "Abit about my self",
+    aboutme: "My full name is Le Huynh Long Hai(Lê Huỳnh Long Hải). I was born in 1995. I am married and have a daughter.",
 };
+
 const worktimeline = [{
         jobtitle: "Automation Test Engineer",
         where: "Bosch Global Software Technologies",
@@ -30,7 +31,7 @@ const worktimeline = [{
         date: "2021",
     },
     {
-        jobtitle: "Automation Test Engineer",
+        jobtitle: "QC Engineer",
         where: "TMA Solutions",
         date: "2017",
     },
@@ -50,7 +51,7 @@ const skills = [{
     },
     {
         name: "Selenium",
-        value: 60,
+        value: 90,
     },
     {
         name: "Appium",
@@ -59,16 +60,16 @@ const skills = [{
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "UI Testing",
+        description: "Building framework and develop automated test suites for Web app on multiple browser and platform with Selenium.",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "API Testing",
+        description: "Integrate API Testing into Automation Test Framework and sharing knowledge to use Postman for everyone",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "TestOps",
+        description: "Setting up Jenkins and Azure for CI/CD.",
     },
 ];
 
@@ -138,18 +139,16 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "hailhl3045@gmail.com.com",
     YOUR_FONE: "+84 987 259 902",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    description: "Please contact me when you need help with something.",
+    YOUR_SERVICE_ID: "service_oz3ysus",
+    YOUR_TEMPLATE_ID: "template_38iiegq",
+    YOUR_USER_ID: "lhlhai.spkt@gmail.com",
 };
 
 const socialprofils = {
     facebook: "https://facebook.com/lhlhai",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
-    youtube: "https://youtube.com",
-    twitch: "https://twitch.com",
+    linkedin: "https:/linkedin.com/in/hai-h-l-le-439863139",
+    youtube: "https://youtube.com/channel/UCKf50sGvDpzWVRSOUZ7Xs7A",
 };
 export {
     meta,
