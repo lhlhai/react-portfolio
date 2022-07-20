@@ -20,7 +20,7 @@ const dataabout = {
     aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
 };
 const worktimeline = [{
-        jobtitle: "Automation Test Engineer,
+        jobtitle: "Automation Test Engineer",
         where: "Bosch Global Software Technologies",
         date: "2022",
     },
