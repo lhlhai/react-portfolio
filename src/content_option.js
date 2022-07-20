@@ -12,7 +12,7 @@ const introdata = {
         third: "I never stop learning new something",
     },
     description: "Take advantages of knowledge and scripting skill to become an expert in Automation Test Engineer.",
-    your_img_url: "https://unsplash.com/photos/9UySGPt-aoo",
+    your_img_url: "https://images.unsplash.com/photo-1658325111615-843a9dd4df88?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
 };
 
 const dataabout = {
